@@ -1,0 +1,9 @@
+:root{
+  --max-width-size:1920px;
+  --primary-color:#6200ee;
+  --primary-variant-color:rgba(137, 43, 226, 0.3);
+  --primary-variant2-color:rgba(137, 43, 226, 0.15);
+  --bold-color:#3700b3;
+  --secondary-color:#03dac5;
+  --secondary-variant-color:#c1fcf6;
+}
