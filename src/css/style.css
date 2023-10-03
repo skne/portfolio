@@ -170,13 +170,13 @@ body {
 }
 
 .about .image.right {
-  background: url('../images/bridge.jpg') center center no-repeat;
-  background-size: cover;
+  background: url('../images/elearning.png') center center no-repeat;
+  background-size: 40%;
 }
 
 .about .image.left {
-  background: url('../images/sky.jpg') center center no-repeat;
-  background-size: cover;
+  background: url('../images/level-up.png') center center no-repeat;
+  background-size: 40%;
 
 }
 
